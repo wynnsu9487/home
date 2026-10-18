@@ -1,2 +1,2 @@
-# wynn-haneul-su.github.io
-website
+# Wynn's Website
+Hi Hi
